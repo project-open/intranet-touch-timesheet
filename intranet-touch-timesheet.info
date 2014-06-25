@@ -17,7 +17,8 @@
         <description format="text/plain">Log hours, using the list of projects in which the user participates.</description>
         <maturity>0</maturity>
 
-        <provides url="intranet-touch-timesheet" version="0.1d"/>
+        <provides url="intranet-touch-timesheet" version="4.1.0.0.0"/>
+        <requires url="sencha-touch" version="4.1.0.0.0"/>
 
         <callbacks>
         </callbacks>
