@@ -36,7 +36,7 @@ Ext.define('ProjectOpen.model.Session', {
 // "end_time": "2010-11-16T14:25:00",
 // "description": "TBD",
 // "title": "A Conversation with Carol Bartz, CEO, Yahoo!",
-// "url": "http://www.web2summit.com/web2010/public/schedule/detail/15362",
+// "url": "https://www.web2summit.com/web2010/public/schedule/detail/15362",
 // "date": "11/16/2010",
 // "speakers": []
 // "id": 15362,

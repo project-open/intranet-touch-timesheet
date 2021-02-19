@@ -30,7 +30,7 @@ Ext.define('ProjectOpen.controller.About', {
 	onVideoTap: function(list, idx, el, record) {
 		Ext.Msg.confirm('External Link', 'Open in YouTube?', function(result){
             if (result == 'yes') {
-                window.location = 'http://www.youtube.com/watch?v=' + record.get('id') + '&feature=player_embedded';
+                window.location = 'https://www.youtube.com/watch?v=' + record.get('id') + '&feature=player_embedded';
             }
         });
 	}
